@@ -36,5 +36,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
-> > > > > > > a3df547 (feat: Add README.md with project overview and features)
